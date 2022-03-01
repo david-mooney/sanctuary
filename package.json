@@ -1,21 +1,33 @@
 {
-    "name": "sanctuary",
-    "displayName": "sanctuary",
-    "description": "Sanctuary dark theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Sanctuary",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Sanctuary-color-theme.json"
-            }
-        ]
-    }
+  "name": "sanctuary",
+  "displayName": "sanctuary",
+  "description": "Sanctuary dark theme",
+  "version": "0.0.1",
+  "publisher": "Sanctuary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-mooney/sanctuary.git"
+  },
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "Sanctuary",
+    "pastel"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sanctuary",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sanctuary-color-theme.json"
+      }
+    ]
+  }
 }
