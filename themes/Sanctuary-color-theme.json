@@ -269,7 +269,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#62e6b3"
+        "foreground": "#FA81A6"
       }
     },
     {
@@ -324,7 +324,7 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#69EBE3"
       }
     },
     {
@@ -531,7 +531,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#C98D70"
       }
     },
     {
@@ -558,7 +558,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#8de8e0"
       }
     },
     {
@@ -623,9 +623,12 @@
     },
     {
       "name": "Markdown - Link Description",
-      "scope": ["string.other.link.description.title.markdown"],
+      "scope": [
+        "string.other.link.description.title.markdown",
+        "entity.name.section.markdown"
+      ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#B47EA4"
       }
     },
     {
@@ -664,7 +667,7 @@
         "punctuation.section.class.end"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#DAE2A9"
       }
     },
     {
@@ -686,7 +689,7 @@
       "name": "Markup - Table",
       "scope": ["markup.table"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#DAE2A9"
       }
     }
   ]
