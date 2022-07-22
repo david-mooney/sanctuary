@@ -2,7 +2,7 @@
   "name": "sanctuary",
   "displayName": "sanctuary",
   "description": "Sanctuary dark theme",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "Sanctuary",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "theme",
     "dark",
     "dark theme",
-    "Sanctuary",
+    "sanctuary",
     "pastel"
   ],
   "categories": [
@@ -26,7 +26,7 @@
       {
         "label": "Sanctuary",
         "uiTheme": "vs-dark",
-        "path": "./themes/Sanctuary-color-theme.json"
+        "path": "./themes/Sanctuary.json"
       }
     ]
   }
