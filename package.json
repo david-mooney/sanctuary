@@ -26,7 +26,7 @@
       {
         "label": "Sanctuary",
         "uiTheme": "vs-dark",
-        "path": "./Sanctuary.json"
+        "path": "./themes/Sanctuary.json"
       }
     ]
   }
